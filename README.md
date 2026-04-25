@@ -26,6 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=bootstrap,cpp,css,express,figma,gcp,git,html,java,js,linux,mongodb,mysql,nodejs,php,postgres,postman,react,redux" />
 
 <table border="0" cellspacing="0" cellpadding="8">
 <tr>
