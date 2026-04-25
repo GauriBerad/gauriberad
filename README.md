@@ -18,24 +18,21 @@
 - ⚡ Fun fact **Debugging code and solving DSA problems is my daily routine**
 
 <h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gauri-berad-923667333" target="_blank">
+<table>
+<tr>
+<td><a href="https://www.linkedin.com/in/gauri-berad-923667333" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-
-  <a href="https://leetcode.com/u/gauriberad/" target="_blank">
+  </a></td>
+<td><a href="https://leetcode.com/u/gauriberad/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-
-  <a href="https://www.topcoder.com/members/414002" target="_blank">
+  </a></td>
+<td><a href="https://www.topcoder.com/members/414002" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40"/>
-  </a>
-
-  <a href="https://discord.gg/gauriBerad" target="_blank">
+  </a></td>
+<td><a href="https://discord.gg/gauriBerad" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-  </a>
-</p>
+  </a></td>
+</tr></table>
 
 <h3 align="left">Languages and Tools:</h3>
 
